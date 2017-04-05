@@ -25,6 +25,7 @@
 
 #include "gz_clk.h"
 #include "gpio-sysfs.h"
+#include "adcreader.h"
 
 static void pabort(const char *s)
 {
